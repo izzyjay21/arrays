@@ -1,0 +1,8 @@
+from array import *
+
+original_array = [3,4,5,56,87,9,98,56,45,101]
+print("Before reversal Array is :",original_array)
+
+
+original_array.reverse() #reversing using reverse()
+print("After reversing Array:",original_array)
